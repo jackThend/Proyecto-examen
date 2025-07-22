@@ -7,7 +7,7 @@ const nota2 = ref(null)
 const nota3 = ref(null)
 const asistencia = ref(null)
 
-// para los mensajes de error de cada campo
+// para los mensajes de error de cada campo.
 const errorNota1 = ref('')
 const errorNota2 = ref('')
 const errorNota3 = ref('')
